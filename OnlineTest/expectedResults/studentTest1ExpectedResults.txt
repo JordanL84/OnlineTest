@@ -1,0 +1,13 @@
+Question Text: Abstract classes cannot have constructors.
+Points: 2.0
+Correct Answer: False
+Question Text: The equals method returns a boolean.
+Points: 4.0
+Correct Answer: True
+Question Text: Which of the following are valid ids?
+A: house   B: 674   C: age   D: &
+Points: 3.0
+Correct Answer: [A, C]
+Question Text: Name two types of initialization blocks.
+Points: 4.0
+Correct Answer: [non-static, static]

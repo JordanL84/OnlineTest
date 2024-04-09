@@ -1,0 +1,13 @@
+Question Text: Dogs are cute
+Points: 2.0
+Correct Answer: True
+Question Text: Ice cream sucks
+Points: 4.0
+Correct Answer: False
+Question Text: Which of the following are football teams
+A: Packers   B: Dogs   C: Jets   D: Buccaneers
+Points: 3.0
+Correct Answer: [A, C, D]
+Question Text: Name two types of initialization blocks.
+Points: 4.0
+Correct Answer: [non-static, static]
